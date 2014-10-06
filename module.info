@@ -1,0 +1,4 @@
+desc=A module to configure postfix with mysql authentication
+version=1.0
+hidden=0
+category=servers
